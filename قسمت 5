@@ -16,7 +16,7 @@ namespace Home_Work_11
             SQRT(n);
         }
 
-        private static void SQRT(int n)
+        private static double SQRT(double n)
         {
             Console.WriteLine(Math.Sqrt(n));
         }
